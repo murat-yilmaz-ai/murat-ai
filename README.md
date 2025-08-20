@@ -7,7 +7,6 @@ Burada hem derslerde yaptığım çalışmaları hem de kendi deneme projelerimi
 ## İlgi Alanlarım
 - Python programlama
 - Veri analizi (NumPy, Pandas)
-- Makine öğrenmesi (scikit-learn)
 - Yapay zekâ uygulamaları
 
 ## Şu anda neler yapıyorum?
